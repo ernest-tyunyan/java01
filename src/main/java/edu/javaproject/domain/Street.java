@@ -1,6 +1,9 @@
 package edu.javaproject.domain;
 
 public class Street {
+    /**
+     * код улицы
+     */
     private Long streetCode;
     private String streetName;
 
