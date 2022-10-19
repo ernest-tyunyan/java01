@@ -5,6 +5,9 @@ public class Street {
      * код улицы
      */
     private Long streetCode;
+    /**
+     * название улицы
+     */
     private String streetName;
 
     public Street(Long streetCode, String name) {
