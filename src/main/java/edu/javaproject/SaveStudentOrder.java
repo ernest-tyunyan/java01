@@ -10,6 +10,8 @@ public class SaveStudentOrder {
 
 int b;
 
+    int a;
+
 
         static long saveStudentOrder(StudentOrder studentOrder) {
             long answer = 199;
