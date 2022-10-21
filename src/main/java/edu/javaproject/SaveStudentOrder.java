@@ -9,6 +9,7 @@ public class SaveStudentOrder {
 
 
 int b;
+int d;
 
     int a;
 
