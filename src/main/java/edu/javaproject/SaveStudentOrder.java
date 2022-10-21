@@ -8,7 +8,7 @@ import edu.javaproject.domain.*;
 public class SaveStudentOrder {
 
 
-
+int b;
 
 
         static long saveStudentOrder(StudentOrder studentOrder) {
